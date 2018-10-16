@@ -1,0 +1,11 @@
+D:\Privat\HackerRank\LeonardosPrimeFactors\LeonardosPrimeFactors\bin\Debug\netcoreapp2.1\LeonardosPrimeFactors.deps.json
+D:\Privat\HackerRank\LeonardosPrimeFactors\LeonardosPrimeFactors\bin\Debug\netcoreapp2.1\LeonardosPrimeFactors.runtimeconfig.json
+D:\Privat\HackerRank\LeonardosPrimeFactors\LeonardosPrimeFactors\bin\Debug\netcoreapp2.1\LeonardosPrimeFactors.runtimeconfig.dev.json
+D:\Privat\HackerRank\LeonardosPrimeFactors\LeonardosPrimeFactors\bin\Debug\netcoreapp2.1\LeonardosPrimeFactors.dll
+D:\Privat\HackerRank\LeonardosPrimeFactors\LeonardosPrimeFactors\bin\Debug\netcoreapp2.1\LeonardosPrimeFactors.pdb
+D:\Privat\HackerRank\LeonardosPrimeFactors\LeonardosPrimeFactors\obj\Debug\netcoreapp2.1\LeonardosPrimeFactors.csprojAssemblyReference.cache
+D:\Privat\HackerRank\LeonardosPrimeFactors\LeonardosPrimeFactors\obj\Debug\netcoreapp2.1\LeonardosPrimeFactors.csproj.CoreCompileInputs.cache
+D:\Privat\HackerRank\LeonardosPrimeFactors\LeonardosPrimeFactors\obj\Debug\netcoreapp2.1\LeonardosPrimeFactors.AssemblyInfoInputs.cache
+D:\Privat\HackerRank\LeonardosPrimeFactors\LeonardosPrimeFactors\obj\Debug\netcoreapp2.1\LeonardosPrimeFactors.AssemblyInfo.cs
+D:\Privat\HackerRank\LeonardosPrimeFactors\LeonardosPrimeFactors\obj\Debug\netcoreapp2.1\LeonardosPrimeFactors.dll
+D:\Privat\HackerRank\LeonardosPrimeFactors\LeonardosPrimeFactors\obj\Debug\netcoreapp2.1\LeonardosPrimeFactors.pdb

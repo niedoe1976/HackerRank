@@ -1,0 +1,7 @@
+D:\Privat\HackerRank\SimplifiedChessEngine\SimplifiedChessEngine\bin\Debug\SimplifiedChessEngine.exe.config
+D:\Privat\HackerRank\SimplifiedChessEngine\SimplifiedChessEngine\bin\Debug\SimplifiedChessEngine.exe
+D:\Privat\HackerRank\SimplifiedChessEngine\SimplifiedChessEngine\bin\Debug\SimplifiedChessEngine.pdb
+D:\Privat\HackerRank\SimplifiedChessEngine\SimplifiedChessEngine\obj\Debug\SimplifiedChessEngine.csproj.CoreCompileInputs.cache
+D:\Privat\HackerRank\SimplifiedChessEngine\SimplifiedChessEngine\obj\Debug\SimplifiedChessEngine.exe
+D:\Privat\HackerRank\SimplifiedChessEngine\SimplifiedChessEngine\obj\Debug\SimplifiedChessEngine.pdb
+d:\Privat\HackerRank\SimplifiedChessEngine\SimplifiedChessEngine\obj\Debug\SimplifiedChessEngine.csprojAssemblyReference.cache
